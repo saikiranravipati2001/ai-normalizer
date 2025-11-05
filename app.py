@@ -9,10 +9,6 @@ from google.oauth2 import service_account
 import google.generativeai as genai
 from google.cloud.sql.connector import Connector
 import pymysql
-from dotenv import load_dotenv
-
-# Load environment variables
-load_dotenv()
 
 
 PROJECT_ID = "ai-data-normalaizer"
@@ -180,3 +176,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
