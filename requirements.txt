@@ -1,0 +1,11 @@
+streamlit
+pandas
+google-generativeai
+google-cloud-storage
+google-oauth2-tool
+sqlalchemy
+pymysql
+google-cloud-sql-connector
+openpyxl
+xlsxwriter
+python-dotenv
