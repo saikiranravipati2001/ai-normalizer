@@ -1,4 +1,0 @@
-streamlit
-google-cloud-aiplatform
-mysql-connector-python
-pandas
